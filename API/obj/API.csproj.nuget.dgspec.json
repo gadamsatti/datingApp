@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj": {}
+    "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj": {
+    "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\gadam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gadam\\Desktop\\datingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\gadam\\Desktop\\datingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gadam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.4, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
