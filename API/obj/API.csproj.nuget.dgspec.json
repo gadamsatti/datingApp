@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj": {}
+    "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj": {
+    "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\gadam\\Desktop\\datingApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\gadam\\Desktop\\datingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\gadam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gadam\\Desktop\\datingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\gadam\\Desktop\\datingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gadam\\AppData\\Roaming\\NuGet\\NuGet.Config",
